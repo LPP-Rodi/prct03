@@ -4,19 +4,7 @@ Respuestas a las preguntas de la práctica 3
     Conseguir el desarrollo de forma independiente de una caracteristica determinada del
     proyecto, de manera que cuando se este trabajando correctamente, se proceda a su 
     fusion con la version estable.
-
     
-    
-    
-    
-    
-    
-    
-    
-   
-   
-   
-   
   - ¿Cuál es la ventaja de reorganizar (rebase)?
   
 
@@ -29,6 +17,3 @@ Respuestas a las preguntas de la práctica 3
     temporales, reiniciará la rama actual hasta llevarla a la misma confirmación en la
     rama donde queremos reorganizar y, finalmente, volverá a aplicar de forma ordenada
     todos los cambios.
-    
-  
-  - Qué es rebase
