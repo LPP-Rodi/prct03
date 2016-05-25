@@ -19,3 +19,16 @@ Respuestas a las preguntas de la práctica 3
    
   - ¿Cuál es la ventaja de reorganizar (rebase)?
   
+
+  - ¿Qué es una reorganización (rebase)?
+    Es una forma diferente de reorganizar nuestras ramas a merge. Con rebase, si por 
+    ejemplo, tenemos nuestro trabajo separado en dos ramas y con commits (confirmaciones)
+    en ambas ramas, podemos coger los cambios introducidos en una de ellas y reaplicarlos
+    en la otra. Con rebase, git irá al ancestro común de ambas ramas, guardará las dife-
+    rencias introducidas por cada confirmación en la rama donde estamos en archivos 
+    temporales, reiniciará la rama actual hasta llevarla a la misma confirmación en la
+    rama donde queremos reorganizar y, finalmente, volverá a aplicar de forma ordenada
+    todos los cambios.
+    
+  
+  - Qué es rebase
