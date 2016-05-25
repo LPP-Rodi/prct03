@@ -4,3 +4,18 @@ Respuestas a las preguntas de la práctica 3
     Conseguir el desarrollo de forma independiente de una caracteristica determinada del
     proyecto, de manera que cuando se este trabajando correctamente, se proceda a su 
     fusion con la version estable.
+
+    
+    
+    
+    
+    
+    
+    
+    
+   
+   
+   
+   
+  - ¿Cuál es la ventaja de reorganizar (rebase)?
+  
